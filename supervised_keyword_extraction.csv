@@ -1,0 +1,80 @@
+,hotel,positive,negative
+0,Hotel Arena,"['good staff', 'staff helpful', 'design hotel', 'lay design', 'loved lay']","['mattress awful', 'room service', 'everything stay', 'service thumb', 'nearly everything']"
+1,K K Hotel George,"['friendly helpful', 'staff friendly', 'friendly staff', 'helpful staff', 'tube station']","['executive room', 'small room', 'work well', 'small bathroom', 'triple room']"
+2,Apex Temple Court Hotel,Not enough data,Not enough data
+3,The Park Grand London Paddington,"['friendly staff', 'clean comfortable', 'staff friendly', 'staff helpful', 'location good']","['tiny room', 'wet room', 'room small', 'room service', 'small room']"
+4,Monhotel Lounge SPA,"['friendly welcoming', 'staff friendly', 'welcoming helpful', 'question like', 'pay euro']","['absolute joke', 'parking requested', 'passage way', 'people talking', 'price booking']"
+5,Kube Hotel Ice Bar,Not enough data,Not enough data
+6,The Principal London,"['friendly staff', 'great location', 'tube station', 'staff helpful', 'location excellent']","['room small', 'front desk', 'star hotel', 'bed small', 'bar closed']"
+7,Park Plaza County Hall London,"['friendly staff', 'staff helpful', 'great location', 'london eye', 'bottle wine']","['sofa bed', 'extra bed', 'bed uncomfortable', 'room hot', 'expensive room']"
+8,One Aldwych,Not enough data,Not enough data
+9,Splendid Etoile,Not enough data,Not enough data
+10,Hotel Trianon Rive Gauche,"['service staff', 'great service', 'staff helpfull', 'helpful understanding', 'amazing stuff']","['bed comfort', 'noise top', 'wi fi', 'bad wi', 'much noise']"
+11,InterContinental London Park Lane,"['everything amazing', 'great staff', 'friendly great', 'great cocktail', 'everything else']","['room size', 'size attentiveness', 'room cleaning', 'cleaning room', 'service room']"
+12,Novotel Suites Paris Nord 18 me,"['modern spacious', 'good breakfast', 'family holiday', 'clean big', 'big room']","['bring family', 'got robbed', 'outside sketchy', 'sketchy part', 'part paris']"
+13,Grand Royale London Hyde Park,"['friendly staff', 'great location', 'friendly helpful', 'helpful staff', 'hyde park']","['room small', 'small room', 'room tiny', 'noisy room', 'sister hotel']"
+14,Milestone Hotel Kensington,Not enough data,Not enough data
+15,Crowne Plaza London Kings Cross,"['comfortable bed', 'bed comfortable', 'room great', 'en suite', 'room perfect']","['hotel need', 'tv remote', 'gave information', 'horrible experience', 'park closed']"
+16,Select Hotel,Not enough data,Not enough data
+17,H tel De Vend me,Not enough data,Not enough data
+18,Pullman Paris Centre Bercy,Not enough data,Not enough data
+19,Gardette Park Hotel,"['star min', 'park close', 'walk metro', 'nice neighbourghood', 'metro beautiful']","['small room', 'room small', 'small three', 'air conditioning', 'work well']"
+20,Hotel Panache,"['everything perfect', 'interior design', 'design great', 'great location', 'hotel nice']","['staff untrained', 'untrained poor', 'issue move', 'poor service', 'overly cool']"
+21,H tel des Ducs D Anjou,"['staff attentive', 'comfortable cozy', 'friendly helpful', 'large room', 'pleasant staff']","['replenished staff', 'breakfast buffet', 'star tiny', 'buffet replenished', 'tiny room']"
+22,Hotel Scribe Paris Opera by Sofitel,"['reception concierge', 'bed amazingly', 'amazingly comfy', 'class staff', 'excellent service']","['bad lot', 'noices room', 'lot noices', 'really run', 'starting look']"
+23,Novotel London West,"['great location', 'friendly staff', 'comfy room', 'minute walk', 'close tube']","['parking charge', 'room size', 'bathroom dated', 'shower cap', 'coffee machine']"
+24,Haymarket Hotel,Not enough data,Not enough data
+25,Intercontinental London The O2,Not enough data,Not enough data
+26,H tel Juliana Paris,Not enough data,Not enough data
+27,Hotel L Antoine,Not enough data,Not enough data
+28,Belfast,"['happy scamble', 'scamble egg', 'egg breakfast', 'would happy', 'charming hotel']","['size comfortable', 'room size', 'room two', 'two adult', 'building comfortable']"
+29,Shangri La Hotel Paris,"['enjoyed valentine', 'else really', 'valentine bar', 'staff else', 'really enjoyed']","['bar bit', 'aloof service', 'service bar', 'earlier room', 'bit slow']"
+30,Mercure Paris Tour Eiffel Pont Mirabeau,"['advantage near', 'shopping mall', 'near metro', 'near beau', 'star staff']","['without ventilation', 'take standard', 'standard room', 'room worth', 'worth without']"
+31,Knightsbridge Hotel,Not enough data,Not enough data
+32,The London EDITION,Not enough data,Not enough data
+33,The Cranley Hotel,"['persian restaurant', 'helpfulness staff', 'friendliness helpfulness', 'welcome drink', 'offered arrival']","['facility room', 'tea facility', 'night sleep', 'got home', 'leaving getting']"
+34,Hotel Le 10 BIS,Not enough data,Not enough data
+35,The Nadler Soho,Not enough data,Not enough data
+36,Grange St Paul s Hotel,"['great location', 'st paul', 'spa lovely', 'friendly staff', 'spa facility']","['room overlooked', 'breakfast poor', 'room ready', 'one room', 'dining room']"
+37,The Ampersand Hotel,Not enough data,Not enough data
+38,Covent Garden Hotel,Not enough data,Not enough data
+39,The Nadler Victoria,Not enough data,Not enough data
+40,Novotel London Tower Bridge,Not enough data,Not enough data
+41,Crowne Plaza Paris R publique,"['location staff', 'excellent job', 'bed extra', 'staff breakfast', 'extra comfy']","['room small', 'bit maintenance', 'room stayed', 'needed bit', 'stayed run']"
+42,Le Metropolitan a Tribute Portfolio Hotel,"['staff helpful', 'eiffel tower', 'good size', 'relaxing pool', 'expresso machine']","['continental breakfast', 'poor continental', 'enough space', 'check half', 'phone unacceptable']"
+43,Atala Champs Elys es,"['staff exceptional', 'reception staff', 'way airport', 'rare paris', 'quite place']","['help service', 'big luggage', 'working tell', 'reception offer', 'one stand']"
+44,H tel de Jos phine BONAPARTE,Not enough data,Not enough data
+45,Maison Souquet,Not enough data,Not enough data
+46,Hotel Tour d Auvergne Opera,"['room service', 'friendly helpful', 'modern friendly', 'location clean', 'clean modern']","['clearly room', 'talking clearly', 'area far', 'room dark', 'live star']"
+47,Le Senat,"['knowledgeable staff', 'could fault', 'staff great', 'room nice', 'great room']","['noice airco', 'lot noice', 'clean lot', 'linen arrival', 'hair found']"
+48,Windsor Opera,Not enough data,Not enough data
+49,Holiday Inn Paris Montparnasse Pasteur,"['quiet room', 'room quiet', 'staff comfortable', 'quiet view', 'comfortable bed']","['properly lighting', 'room bad', 'condition broken', 'standard small', 'lighting room']"
+50,H tel Keppler,Not enough data,Not enough data
+51,Les Plumes Hotel,"['combine style', 'hotel combine', 'really cool', 'modernity really', 'style vintage']","['selection small', 'room small', 'breakfast selection', 'small ok', 'small breakfast']"
+52,Hotel des Tuileries Relais du Silence,"['level staff', 'staff diligence', 'location good', 'room elegant', 'elegant safety']","['service cleaness', 'cleaness room', 'poor really', 'staff wifi', 'needed work']"
+53,Bradford Elys es Astotel,Not enough data,Not enough data
+54,W London Leicester Square,"['location location', 'hotel london', 'lovely accommodation', 'london great', 'close amenity']","['wait checking', 'management ever', 'worst management', 'earbuds room', 'check staff']"
+55,The Victoria,"['everything first', 'first location', 'liked everything', 'friendly staff', 'food facility']","['cost food', 'noise fast', 'staff everything', 'room staff', 'place friendly']"
+56,Pullman London St Pancras,Not enough data,Not enough data
+57,Crowne Plaza London Kensington,"['staff friendly', 'thing club', 'club bus', 'lovely brekfast', 'great staff']","['room large', 'try deal', 'value money', 'london standard', 'heating work']"
+58,Doubletree by Hilton London Kensington,"['staff friendly', 'bed comfy', 'clean comfortable', 'good location', 'helpful staff']","['room small', 'early morning', 'room cold', 'work going', 'ground floor']"
+59,Ace Hotel London Shoreditch,Not enough data,Not enough data
+60,Staybridge Suites London Vauxhall,Not enough data,Not enough data
+61,The Grosvenor,"['staff helpful', 'location great', 'great location', 'great staff', 'hotel staff']","['room ready', 'room wing', 'value money', 'air conditioning', 'room small']"
+62,The Park Tower Knightsbridge a Luxury Collection Hotel,"['every thing', 'room everything', 'staff amazing', 'helpfull freindly', 'thing perfect']","['staff clean', 'wi fi', 'work rude', 'people work', 'free wi']"
+63,Amp re,Not enough data,Not enough data
+64,Melia Paris Champs Elys es,Not enough data,Not enough data
+65,Le Parisis Paris Tour Eiffel,Not enough data,Not enough data
+66,Thistle Kensington Gardens,"['excellent location', 'good room', 'good food', 'hyde park', 'location great']","['room small', 'small room', 'bed really', 'change bed', 'two people']"
+67,Park Plaza Sherlock Holmes London,"['experience good', 'everything wonderful', 'couple issue', 'hotel overall', 'great apart']","['room small', 'room hotel', 'wi fi', 'room hot', 'star rude']"
+68,Hilton Paris Opera,"['realy evrything', 'great breakfast', 'chocolate wine', 'birthday card', 'attention detail']","['fitness room', 'amenity fitness', 'hotel amenity', 'room worthless', 'non residentst']"
+69,The Kensington Hotel,Not enough data,Not enough data
+70,Holiday Inn London Stratford City,Not enough data,Not enough data
+71,Staybridge Suites London Stratford,Not enough data,Not enough data
+72,Shepherd s Bush Boutique Hotel,"['value money', 'staff friendly', 'bed clean', 'good location', 'helpful staff']","['room tiny', 'poor breakfast', 'room small', 'room poor', 'small room']"
+73,My Bloomsbury,"['great location', 'location perfect', 'comfy bed', 'friendly staff', 'location staff']","['breakfast simple', 'bed lumpy', 'time service', 'internet double', 'restaurant opening']"
+74,Holiday Inn Paris Gare de Lyon Bastille,"['ive paris', 'great location', 'gare de', 'best ive', 'de lyon']","['quite small', 'bit bland', 'room small', 'room quite', 'small room']"
+75,H tel Chaplain Paris Rive Gauche,Not enough data,Not enough data
+76,H tel Regina Op ra Grands Boulevards,"['staff nice', 'hotel new', 'new beautifully', 'beautifully furnished', 'location staff']","['wi fi', 'extremely bad', 'neighborhood view', 'sketchy neighborhood', 'view obsolete']"
+77,11 Cadogan Gardens,Not enough data,Not enough data
+78,The Wellesley Knightsbridge a Luxury Collection Hotel London,Not enough data,Not enough data
